@@ -1,8 +1,11 @@
 [![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/anapsix)](https://artifacthub.io/packages/search?repo=anapsix)
 
-## Adding Repo
+## Usage
 
-To add repo to Helm use the following command
+[Helm](https://helm.sh) must be installed to use the charts.
+Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
+
+Once Helm is set up properly, add the repo as follows:
 ```shell
 helm repo add anapsix https://charts.random.io
 ```
