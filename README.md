@@ -1,3 +1,5 @@
+[![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/anapsix)](https://artifacthub.io/packages/search?repo=anapsix)
+
 ## Adding Repo
 
 To add repo to Helm use the following command
